@@ -2,24 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b>re</b>liable <b>A</b>rtificial <b>I</b>ntelligence for Health and <b>M</b>edicine
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: DSC_0923.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>PH-20 402</p>
+    <p>622 W 168th St</p>
+    <p>New York, NY 10032</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+Shalmali Joshi is an `Assistant Professor` at [Columbia University, Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) where she leads the `reAIM Lab`. She works to advance Machine Learning (ML) and Artificial Intelligence (AI) methods with the goal of advancing clinical health and medicine for all.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Artificial Intelligence and Machine Learning, if done right, have a huge potential for transforming health, medicine and improving health equity. `reAIM's` mission is to `refocus` methodological developments in Machine Learning and Artificial Intelligence to make ML/AI reliable and safe for health, medicine, and improve health inequities along the way.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Our group develops methods using causal inference, off-policy reinforcement learning, and other advanced deep and machine learning, combined with an in-depth understanding of the clinical problem to develop safe, robust, generalizable learning-based solutions. 

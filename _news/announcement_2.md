@@ -1,31 +1,31 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: I am looking for Postdocs for Summer/Fall 2023!
+date: 2023-03-12 16:11:00-0400
 inline: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Expertise: AI/Machine Learning for Clinical Healthcare to work in Causal Inference, Generalization and Deep Learning
 
 ***
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
 
-#### Hipster list
+PIs Shalmali Joshi and Noémie Elhadad are seeking a postdoctoral researcher with a strong background in Machine Learning to conduct cutting edge research to develop new methods and a foundational understanding for generalization, transfer learning and/or domain adaptation for healthcare applications. 
+
+As a postdoc, you will work on conceptualizing and leading projects that address major challenges in the area of generalization with relevance to healthcare. You will develop principled methods using causal inference, probabilistic modeling and deep learning in static and longitudinal settings. You will also have the opportunity to apply your novel methodological work in psychiatry data that combines multiple data-domains and heterogenous data types. 
+
+Columbia University Medical Center and particularly the Department of Biomedical Informatics has access to 6.5 million patient records, including large EHR and claims data. It is also a leading coordinating center for [OHDSI](https://www.ohdsi.org/). If you are interested in high quality methodological work with strong potential for real health impact, this is the right place for you.
+
+<b>Qualifications</b>:
+Applicants should have a PhD in ML, statistics or equivalent (within 3 months of starting the position). Strong research interest in Machine Learning for health and medicine is required, with a relevant publication record (ICML, NeurIPS, AISTATS, UAI, MLHC, CHIL, JAMIA, KDD etc.). Experience working with Electronic Health Record data, combining multiple data-domains is a plus. Relevant research background in one or more of Causal Inference, Probabilistic Modeling and Generalization in ML, modeling longitudinal data modeling is a significant plus.
+
+Annual salary will be 70K USD + 10K annual housing allowance (provided monthly) until you qualify for Columbia Housing
+
+If interested please apply [here](https://academic.careers.columbia.edu/#!/112800) and email the following to Shalmali Joshi and Noémie Elhadad with the subject line: \[Postdoc Application: SJ, NE\]
+#### Application Materials
 <ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
+    <li>CV</li>
+    <li>Cover Letter</li>
+    <li>Research Statement (up to 4 pages)</li>
+    <li>Name, affiliation, and email of three references</li>
 </ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
-***
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
