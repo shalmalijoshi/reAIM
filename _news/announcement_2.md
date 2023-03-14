@@ -30,6 +30,7 @@ If interested please apply [here](https://academic.careers.columbia.edu/#!/11280
 </ul>
 
 <b>Equal Employment Opportunity Statement</b>
+
 Columbia University is an Equal Opportunity Employer / Disability / Veteran
 
 <b>Pay Transparency Disclosure</b>
