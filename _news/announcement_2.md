@@ -10,15 +10,14 @@ Expertise: AI/Machine Learning for Clinical Healthcare to work in Causal Inferen
 ***
 
 
-Shalmali Joshi and Noémie Elhadad are seeking a postdoctoral researcher with a strong background in Machine Learning to conduct cutting edge research to develop new methods and a foundational understanding for generalization, transfer learning and/or domain adaptation for healthcare applications.
+Shalmali Joshi and Noémie Elhadad are seeking a postdoctoral researcher with a strong background in Machine Learning to conduct cutting-edge research to develop new methods and a foundational understanding for generalization, transfer learning, and/or domain adaptation for healthcare applications.
 
-As a postdoc, you will work on conceptualizing and leading projects that address major challenges in the area of generalization with relevance to healthcare. You will develop principled methods using causal inference, probabilistic modeling and deep learning in static and longitudinal settings. You will also have the opportunity to apply your novel methodological work in psychiatry data that combines multiple data-domains and heterogeneous data types.
+As a postdoc, you will work on conceptualizing and leading projects that address major challenges in the area of generalization with relevance to healthcare. You will develop principled methods using causal inference, probabilistic modeling, and deep learning in static and longitudinal settings. You will also have the opportunity to apply your novel methodological work in psychiatry data that combines multiple data domains and heterogeneous data types.
 
-[Columbia University Medical Center](https://www.cuimc.columbia.edu/) and particularly the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) has access to 6.5 million patient records, including large EHR and claims data. It is also a leading coordinating center for [OHDSI](https://www.ohdsi.org/). You will have access to the [DSI](https://datascience.columbia.edu/) If you are interested in high quality methodological work with strong potential for real health impact, this is the right place for you.
+[Columbia University Medical Center](https://www.cuimc.columbia.edu/) and particularly the [Department of Biomedical Informatics](https://www.dbmi.columbia.edu/) has access to 6.5 million patient records, including large EHR and claims data. It is also a leading coordinating center for [OHDSI](https://www.ohdsi.org/). You will further have access to the [DSI](https://datascience.columbia.edu/) resources for collaborations and additional data. If you are interested in high quality methodological work with strong potential for real health impact, this is the right place for you.
 
 <b>Qualifications</b>:
-Applicants should have a PhD in ML, statistics or equivalent (within 3 months of starting the position). Strong research interest in Machine Learning for health and medicine is required, with a relevant publication record (ICML, NeurIPS, AISTATS, UAI, MLHC, CHIL, JAMIA, KDD etc.). Experience working with Electronic Health Record data, combining multiple data-domains is a plus. Relevant research background in one or more of Causal Inference, Probabilistic Modeling and Generalization in ML is a significant plus.
-
+Applicants should have a Ph.D. in ML, statistics, or equivalent (within 3 months of starting the position). Strong research interest in Machine Learning for health and medicine is required, with a relevant publication record (ICML, NeurIPS, AISTATS, UAI, MLHC, CHIL, JAMIA, KDD, etc.). Experience working with Electronic Health Record data, combining multiple data domains is a plus. Relevant research background in one or more Causal Inference, Probabilistic Modeling, and Generalization in ML is a significant plus.
 
 If interested please apply [here](https://academic.careers.columbia.edu/#!/112800) with the following.
 #### Application Materials
