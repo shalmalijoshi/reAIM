@@ -6,7 +6,7 @@ subtitle: <b>re</b>liable <b>A</b>rtificial <b>I</b>ntelligence for Health and <
 
 profile:
   align: right
-  image: DSC_0923.png
+  image: DSC_5978_web.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>PH-20 402</p>
